@@ -1,6 +1,6 @@
 # Echo – Responsive Statistics Section
 
-**Live Preview:** [View Echo](https://thisislefa.github.io/Echo)
+**Live Preview:** [View Echo](https://lefajmofokeng.github.io/Echo)
 
 ---
 
