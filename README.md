@@ -1,12 +1,13 @@
 # Echo – Responsive Statistics Section
-
-**Live Preview:** [View Echo](https://lefajmofokeng.github.io/Echo)
-
 ---
 
 ## Overview
 
 Echo is a sophisticated, data-driven statistics section designed for enterprise technology websites. This component features an asymmetrical grid layout, dramatic gradient background, and prominent numerical metrics to convey key performance indicators and service-level commitments in a visually compelling format.
+
+<img width="1920" height="1112" alt="screencapture-file-C-Users-STUDENT-Desktop-Projects-AsymmetryStats-index-html-2026-01-17-13_02_47 (1)" src="https://github.com/user-attachments/assets/c4d65280-ae22-4fc1-ad5a-e7a43fcfb6cf" />
+
+**Live Preview:** [View Echo](https://lefajmofokeng.github.io/Echo)
 
 ## Project Structure
 
